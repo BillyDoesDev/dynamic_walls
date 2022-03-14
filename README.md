@@ -1,4 +1,4 @@
 # $ dynamic_walls
 
 ## Demo
-<p align="center"><video src="assets/noice.mp4", width="70%" /></p>
+https://raw.githubusercontent.com/DarkKnight450/dynamic_walls/main/assets/noice.mp4
