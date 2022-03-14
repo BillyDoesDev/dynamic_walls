@@ -1,10 +1,6 @@
 # $ dynamic_walls
 
-## Demo
-https://raw.githubusercontent.com/DarkKnight450/dynamic_walls/main/assets/noice.mp4
+A small script written in Python3 that changes your current wallpaper based on your battery percentage.
 
-https://github.com/DarkKnight450/dynamic_walls/blob/main/assets/noice.mp4?raw=true
-
-
-https://user-images.githubusercontent.com/64155209/158132970-3eb76ec7-5e28-4372-9cbb-eceb7fbf20bc.mp4
+https://user-images.githubusercontent.com/64155209/158133110-84659bb2-6f8f-4e9a-869e-42565f6c42c0.mp4
 
