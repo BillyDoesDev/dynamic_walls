@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/64155209/158133110-84659bb2-6f8f-4e9a-
 
 ## Dependencies
 - [python3](https://www.python.org/)
-- [python3-pillow](https://pypi.org/project/Pillow/])
+- [python3-pillow](https://pypi.org/project/Pillow/)
 
 ## Usage
 
