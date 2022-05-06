@@ -19,7 +19,7 @@ In order to open the startup directory, press `Windows_Key + R`, type `shell:sta
 Simply yeet the thing from your startup directory lmao
 
 ## What next?
-If you have suggestions, feel free to [open an issue](https://github.com/DarkKnight450/dynamic_walls/issues) or [create a pr](https://github.com/DarkKnight450/dynamic_walls/pulls).</br>
+If you have suggestions, feel free to [open an issue](https://github.com/BillyDoesDev/dynamic_walls/issues) or [create a pr](https://github.com/BillyDoesDev/dynamic_walls/pulls).</br>
 Feel free to contact me for further discussions at DarkKnight450@protonmail.com</br>
 
 ## ToDo
